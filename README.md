@@ -1,1 +1,1 @@
-# Data-Mining
+# Interactive-EDA-Dashboard
