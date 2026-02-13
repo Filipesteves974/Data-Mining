@@ -23,14 +23,13 @@ The goal of this repository is to provide clear, reproducible examples of data m
 ## Repository Structure
 Data-Mining/
 │
-├── datasets/          
-- Sample datasets used for exercises
-├── notebooks/
-- Jupyter notebooks with step-by-step analysis
-├── scripts/           -
-- Python scripts for reusable components
-└── README.md
-- Project documentation
+-├── datasets/ Sample datasets used for exercises
+-├── notebooks/
+ Jupyter notebooks with step-by-step analysis
+-├── scripts/           
+ Python scripts for reusable components
+-└── README.md
+ Project documentation
 ## Future Improvements
 - Integration of additional datasets
 - More advanced models (e.g., ensemble methods, deep learning)
