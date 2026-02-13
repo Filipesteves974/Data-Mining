@@ -26,8 +26,7 @@ Data-Mining/
 - ├── datasets/ Sample datasets used for exercises
 - ├── notebooks/
  Jupyter notebooks with step-by-step analysis
-- ├── scripts/           
- Python scripts for reusable components
+- ├── scripts/ Python scripts for reusable components
 - └── README.md
  Project documentation
 ## Future Improvements
